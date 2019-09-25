@@ -6,3 +6,5 @@
 [Sample Service Application Donwload.](http://45.248.73.44/index.php/s/tGR9bx65tpMQSir/download)
 
 wget http://45.248.73.44/index.php/s/HxKANM7mNkGCmna/download -O service.zip
+
+wget http://45.248.73.44/index.php/s/EAjDCyK4CKdgNtc/download -O stemcell.zip
